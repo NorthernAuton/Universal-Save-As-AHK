@@ -14,6 +14,7 @@ This script is designed to be used with [AutoHotKey](https://www.autohotkey.com/
 Download the [current version](https://raw.githubusercontent.com/NorthernAuton/Universal-Save-As-AHK/main/Universal-Save-As.ahk) to your desktop and run.
 
 # Currently Supported Applications
+- Atom
 - Inkscape
 - LibreOffice Calc
 - LibreOffice Draw
@@ -33,4 +34,5 @@ Download the [current version](https://raw.githubusercontent.com/NorthernAuton/U
 - Notepad++
 - Paint.NET
 - SumatraPDF
+- Sublime Text
 - Typora
