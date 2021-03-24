@@ -5,7 +5,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 f_12            := "excel,mspaint,MSPUB,outlook,PBIDesktop,powerpnt,VISIO,WINPROJ,winword"
 control_s       := "SumatraPDF"
 control_alt_s   := "notepad++"
-control_shift_s := "inkscape,Notepad,PaintDotNet,sublime_text,Typora"
+control_shift_s := "atom,inkscape,Notepad,PaintDotNet,sublime_text,Typora"
 
 loop parse, f_12, `,
     GroupAdd f_12, % "ahk_exe " A_LoopField ".exe"
