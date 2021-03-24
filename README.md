@@ -8,23 +8,23 @@ In nearly all Windows applications, "Save" is almost universally triggered by th
 Where available, this script will bind "Save As" function to the key combination Ctrl + F12.
 
 # Currently Supported Applications
-Inkscape
-LibreOffice Calc
-LibreOffice Draw
-LibreOffice Impress
-LibreOffice Math
-LibreOffice Writer
-Microsoft Excel
-Microsoft Outlook
-Microsoft Paint
-Microsoft Power BI Desktop
-Microsoft PowerPoint
-Microsoft Project
-Microsoft Publisher
-Microsoft Visio
-Microsoft Word
-Notepad
-Notepad++
-Paint.NET
-SumatraPDF
-Typora
+- Inkscape
+- LibreOffice Calc
+- LibreOffice Draw
+- LibreOffice Impress
+- LibreOffice Math
+- LibreOffice Writer
+- Microsoft Excel
+- Microsoft Outlook
+- Microsoft Paint
+- Microsoft Power BI Desktop
+- Microsoft PowerPoint
+- Microsoft Project
+- Microsoft Publisher
+- Microsoft Visio
+- Microsoft Word
+- Notepad
+- Notepad++
+- Paint.NET
+- SumatraPDF
+- Typora
