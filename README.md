@@ -7,6 +7,12 @@ In nearly all Windows applications, "Save" is almost universally triggered by th
 
 Where available, this script will bind "Save As" function to the key combination Ctrl + F12.
 
+# Usage
+
+This script is designed to be used with [AutoHotKey](https://www.autohotkey.com/).
+
+Download the [current version](https://raw.githubusercontent.com/NorthernAuton/Universal-Save-As-AHK/main/Universal-Save-As.ahk) to your desktop and run.
+
 # Currently Supported Applications
 - Inkscape
 - LibreOffice Calc
